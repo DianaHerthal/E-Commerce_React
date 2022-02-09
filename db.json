@@ -1,11 +1,46 @@
 {
-  "products":
-  [
-    { "id": 1, "title": "Produto XPTO 1", "description": "Description Produto XPTO 1", "value": 45.99, "image": "https://source.unsplash.com/random"},
-    { "id": 2, "title": "Produto XPTO 2", "description": "Description Produto XPTO 2", "value": 35.50, "image": "https://source.unsplash.com/random"},
-    { "id": 3, "title": "Produto XPTO 3", "description": "Description Produto XPTO 3", "value": 95.90, "image": "https://source.unsplash.com/random"},
-    { "id": 4, "title": "Produto XPTO 4", "description": "Description Produto XPTO 4", "value": 45.99, "image": "https://source.unsplash.com/random"},
-    { "id": 5, "title": "Produto XPTO 5", "description": "Description Produto XPTO 5", "value": 45.50, "image": "https://source.unsplash.com/random"},
-    { "id": 6, "title": "Produto XPTO 6", "description": "Description Produto XPTO 6", "value": 45.09, "image": "https://source.unsplash.com/random"}
-  ]
+     "products": [
+          {
+               "id": 1,
+               "title": "Para Sempre",
+               "description": "Autor(a): Alyson Noël",
+               "value": 20.61,
+               "image": "https://m.media-amazon.com/images/I/413UA+d1juL.jpg"
+          },
+          {
+               "id": 2,
+               "title": "Sussurro",
+               "description": "Autor(a): Becca Fitzpatrick",
+               "value": 24.21,
+               "image": "https://m.media-amazon.com/images/I/41+a62gRMPL.jpg"
+          },
+          {
+               "id": 3,
+               "title": "O Lado Mais Sombrio",
+               "description": "Autor(a): A. G. Howard",
+               "value": 13.41,
+               "image": "https://m.media-amazon.com/images/I/51K4EuHRo+L.jpg"
+          },
+          {
+               "id": 4,
+               "title": "O Princípe Cruel",
+               "description": "Autor(a): Holly Black",
+               "value": 25.9,
+               "image": "https://a-static.mlcdn.com.br/618x463/livro-o-principe-cruel-vol-1-o-povo-do-ar/sbsrecife/426130/b19678fa94e277881d1a2a1052de6247.jpg"
+          },
+          {
+               "id": 5,
+               "title": "Corte de Espinhos e Rosas",
+               "description": "Autor(a): Sarah J. Maas",
+               "value": 28.6,
+               "image": "https://images-na.ssl-images-amazon.com/images/I/91RU544KgKL.jpg"
+          },
+          {
+               "id": 6,
+               "title": "A Revolução dos Bixos",
+               "description": "Autor(a): George Orwell",
+               "value": 12.9,
+               "image": "https://images-na.ssl-images-amazon.com/images/I/612QiXA+FyL.jpg"
+          }
+     ]
 }
